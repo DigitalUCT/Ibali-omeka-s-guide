@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/DigitalUCT/omeka-s-guide/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-This is a general checklist for creating Items for showcasing on Ibali, through Omeka S and IIIF platforms. In order to create any kind of site, users are required to create items with appropriate descriptions. These items can be interlinked with one another as well as other data on the internet. 
-Building a collection like this will require some curation and all users are requested to meet with DLS staff for a curation session in order to prepare the items for showcasing.
+This is a general checklist for creating Items for showcasing on Ibali, through Omeka S and IIIF platforms. In order to create any kind of site, users are required to create items with appropriate descriptions. These items can be interlinked with one another as well as other data on the internet.
+Building a collection like this will require some curation and all users are requested to meet with DLS staff for a curation session in order to prepare the items for showcasing. This is only for Omeka-S.
 
 
 ### Markdown
