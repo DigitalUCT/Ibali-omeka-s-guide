@@ -9,6 +9,17 @@ Building a collection like this will require some curation and all users are req
 ### Getting Started with your Collection
 ### Legal Questions: Licenses and Copyright
 ### Questions to consider
+Here are some of the questions you should consider answering in order to assist with the creation of your collection and site:
+1. What kind of items do you have in your collection?
+2. What other kind of “items” are referred to by the media items in your collection?
+3. How do the items interrelate?
+4. For each of the media items, what is the current metadata that you have?
+5. How would you describe the non-media items?
+6. How would you group your collections of items in terms of where/how they come from?
+7. Can you consolidate your keyword list to link between items?
+8. Describe how you would want your site to work?
+
+
 ### Process to Follow
 ### Becoming a User
 ## Describing your Resources
