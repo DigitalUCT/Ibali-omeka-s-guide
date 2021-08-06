@@ -44,6 +44,11 @@ Here are some of the questions you should consider answering in order to assist 
 ### Setting up Navigation
 ### Adding Timelines
 ### Adding Maps
+### Resources
+<p>A list of Omeka s Themes<br>
+https://daniel-km.github.io/UpgradeToOmekaS/omeka_s_themes.html</p>
+
+
 ## Key components
 ### Home
 ### Contact
